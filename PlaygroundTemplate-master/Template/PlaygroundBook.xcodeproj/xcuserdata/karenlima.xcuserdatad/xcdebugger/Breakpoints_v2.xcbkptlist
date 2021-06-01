@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3241E78-29A8-4131-9A03-66027AF2F15C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F3B84FF-DC6A-447D-914E-73FF0E3CE291"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main3.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "touchDown(atPoint:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "Main2"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - 56291dd5bd28ec41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.test7right.getter : __C.SKSpriteNode"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - 54760619cb99cc55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.test7right.setter : __C.SKSpriteNode"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - 9f4ea6c157e72e35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.test7right.modify : __C.SKSpriteNode"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - 351d5f53d1cf7855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.test7right.modify : __C.SKSpriteNode with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - ca240abf62aa895d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.init(size: __C.CGSize) -&gt; BookCore.Main2"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "8781">
+               </Location>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - 532f714c2f0a1d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.init() -&gt; BookCore.Main2"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "8748">
+               </Location>
+               <Location
+                  uuid = "A88D445F-31B8-4769-ABFE-DEFC8C981B61 - 24dcf916bdc3cd15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.Main2.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BookCore.Main2&gt;"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karenlima/Downloads/PlaygroundTemplate-master/Template/PlaygroundBook/Modules/BookCore.playgroundmodule/Sources/Main2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "7839">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
