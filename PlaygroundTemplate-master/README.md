@@ -1,6 +1,9 @@
-# WWDC Swift Student Challenge 2021 - Winner
+# WWDC Swift Student Challenge 2021 - [Accepted]
+
+Playground enviado para o WWDC Swift Student Challenge 2021
 
 This is the playground for WWDC 2021 Swift Student Challenge
+
 **Check the video of this submission on YouTube:**
 https://youtu.be/tYlAZnhEWn4
 
@@ -18,4 +21,5 @@ The idea of ​​the playground is to reflect on the dangers that technology ca
 In the end, a reflection is promoted about the danger that technologies that have been badly implemented can cause if they are not developed to include everyone, regardless of race, gender, ethnicity, or any other personal characteristic.
 
 For the development of the Playground, SpriteKit and Swift 5.3 were used. Some animations are presented and the user participates in a machine learning training experience by dragging the photos to the machine being trained, and then takes a quiz.
+
 
