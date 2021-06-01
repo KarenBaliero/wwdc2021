@@ -1,6 +1,7 @@
 # WWDC Swift Student Challenge 2021 - [Accepted]
 
 Playground enviado para o WWDC Swift Student Challenge 2021
+
 This is the playground for WWDC 2021 Swift Student Challenge
 **Check the video of this submission on YouTube:**
 https://youtu.be/tYlAZnhEWn4
